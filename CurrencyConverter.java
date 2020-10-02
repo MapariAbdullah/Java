@@ -10,7 +10,7 @@ class CurrencyConverter{
 		System.out.println("yen: "+yen);
 		System.out.println("$australian: "+$australian);
 		System.out.println("chilean_peso: "+chilean_peso);
-		System.out.println("mexican_peso: "+mexican_peso);
+		System.out.println("mexican_peso: "+mexican_peso);// output
 
 	}
 	public static void main(String args[])
