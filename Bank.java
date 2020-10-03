@@ -26,8 +26,8 @@ public class Bank {
         temp = balance;
     }
     
-    void withdraw() {
-        System.out.print("Enter amount to be withdrawn:");
+    void withdraw() {         
+        System.out.print("Enter amount to be withdrawn:");   //enter amt
         double w=S.nextDouble();
         if(balance>=w) {
         balance=balance-w;
